@@ -3,3 +3,4 @@ hello world saja
 Mencoba Menambahkan Pembaruan Deskripsi
 
 - [ ] Squash 1
+- [ ] Squash 2
