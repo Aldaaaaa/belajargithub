@@ -2,4 +2,6 @@ hello world saja
 
 Mencoba Menambahkan Pembaruan Deskripsi
 
-Mencoba Push Request melalui fork
+- [ ] Squash 1
+- [ ] Squash 2
+- [ ] Squash 3
